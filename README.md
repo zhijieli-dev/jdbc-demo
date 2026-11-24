@@ -20,6 +20,7 @@ Progetto Java di esempio che mostra come collegarsi a un database relazionale tr
 - Druid
 - Lombok
 - JUnit
+- MySQL
 
 ## Configurazione
 
